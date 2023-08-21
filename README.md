@@ -1,2 +1,2 @@
 # testgit
-Git commands
+Basic Git commands: add, commit, push, etc...
